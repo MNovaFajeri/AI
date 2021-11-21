@@ -1,0 +1,2 @@
+print("Python sangat simpel")
+
